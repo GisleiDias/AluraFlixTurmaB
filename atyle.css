@@ -2,3 +2,13 @@ body{
     background-color: black;
     color: red;
 }
+section
+padding-top: 80px;
+padding-bottom: 80px;
+display: flex; /*torna flexivel*/
+justify-content: center;
+
+
+.chmada-texto{
+    margin-right: 100px;
+}
