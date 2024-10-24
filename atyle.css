@@ -3,13 +3,13 @@ body{
     color: red;
 }
 
-section
-padding-top: 80px;
-padding-bottom: 80px;
-display: flex; /*torna flexivel*/
-justify-content: center;
+section{padding-top: 80px;
+    padding-bottom: 80px;
+    display: flex; /*torna flexivel*/
+    justify-content: center;}
 
 
-.chmada-texto{
+
+.chamada-texto{
     margin-right: 5%;
 }
