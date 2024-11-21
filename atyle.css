@@ -21,7 +21,7 @@ img{
 .categoria{
     padding-left: 100px;
     padding-right: 100px;
-    background-color: cadetblue;
+    background-color: rgb(66, 103, 104);
 }
 .categoria-videos{
     display: flex;
