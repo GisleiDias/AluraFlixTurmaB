@@ -8,8 +8,15 @@ body{
     padding-bottom: 80px;
     display: flex; /*torna flexivel*/
     justify-content: center;}
+h1{
+    font-size: 30px;
+    color: antiquewhite;
+}
 
-
+p{
+    font-size: 30px;
+    color: brown;
+}
 
 .chamada-texto{
     margin-right: 5%;
